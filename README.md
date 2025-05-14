@@ -4,6 +4,11 @@
 [![Demo](GNEC.png)](https://www.youtube.com/watch?v=KIbEPyWscug)
 Read More: https://github.com/LEN-J-S/GNEC-Hackathon-2025/blob/main/ACCESS%20AI.pdf
 
+# AccesAI-Hostpage
+### The Hostpage can be accessed here : https://inquisitive-dieffenbachia-864300.netlify.app/
+![Webpage](https://github.com/LEN-J-S/GNEC-Hackathon-2025/blob/main/Host%20Webpage/sample.png)
+
+
 ## Inspiration
 Nearly 4 billion people around the world lack reliable internet access. This deepens education gaps, economic exclusion, and poverty cycles. While AI and digital tools are revolutionizing learning, they remain out of reach for billions.
 
