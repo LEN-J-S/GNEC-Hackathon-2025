@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "text": "Python is a programming language created by Guido van Rossum and first released in 1991. It is known for its readability and large standard library."
+    },
+    {
+      "id": 2,
+      "text": "Streamlit is an open-source Python library used for creating web applications for data science and machine learning projects."
+    },
+    {
+      "id": 3,
+      "text": "FAISS (Facebook AI Similarity Search) is a library for efficient similarity search of dense vectors, enabling quick nearest-neighbor lookup:contentReference[oaicite:8]{index=8}."
+    },
+    {
+      "id": 4,
+      "text": "Phi-4-mini-instruct is a 3.8 billion parameter language model by Microsoft that supports up to 128K tokens context and is fine-tuned for following instructions:contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10}."
+    }
+  ]
+  
