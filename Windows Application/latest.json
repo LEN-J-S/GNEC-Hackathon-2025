@@ -1,0 +1,11 @@
+{
+    "model": {
+      "name": "microsoft/Phi-4-mini-instruct",
+      "version": 1
+    },
+    "documents": {
+      "version": 1.1,
+      "url": "https://example.com/kb_v1.1.json"
+    }
+  }
+  
