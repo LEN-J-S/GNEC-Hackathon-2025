@@ -1,0 +1,160 @@
+{
+  "header": {
+    "home": "Beranda",
+    "windows": "Windows",
+    "android": "Android",
+    "getStarted": "Mulai"
+  },
+  "hero": {
+    "sdgBadge": "Tujuan Pembangunan Berkelanjutan PBB 10: Mengurangi Kesenjangan",
+    "title": "Access AI",
+    "tagline": "Membawa dunia kepada 4 miliar orang yang masih offline—satu komunitas pada satu waktu",
+    "downloadButton": "Unduh Sekarang"
+  },
+  "download": {
+    "title": "Pilih Platform Anda",
+    "subtitle": "Menghancurkan hambatan teknologi di semua perangkat. Misi kami adalah memastikan semua orang memiliki akses yang sama ke informasi dan kesempatan.",
+    "recommended": "Direkomendasikan untuk Anda",
+    "windows": {
+      "title": "Windows",
+      "subtitle": "Untuk komputer Windows 10 dan 11",
+      "button": "Unduh untuk Windows"
+    },
+    "android": {
+      "title": "Android",
+      "subtitle": "Untuk smartphone dan tablet Android 8.0+",
+      "button": "Unduh untuk Android"
+    }
+  },
+  "features": {
+    "title": "Menjembatani Kesenjangan Digital",
+    "offline": {
+      "title": "Akses Offline",
+      "description": "Menghancurkan hambatan dengan menyediakan akses ke informasi penting tanpa memerlukan koneksi internet."
+    },
+    "equality": {
+      "title": "Kesempatan yang Setara",
+      "description": "Memberdayakan komunitas dengan akses yang setara ke sumber daya pendidikan dan kesempatan."
+    },
+    "community": {
+      "title": "Dampak Komunitas",
+      "description": "Menciptakan perubahan yang berkelanjutan dengan menghubungkan komunitas ke sumber daya dan pengetahuan penting."
+    }
+  },
+  "join": {
+    "title": "Bergabung dengan Gerakan",
+    "description": "Jadilah bagian dari misi kami untuk mengurangi kesenjangan dan menciptakan dunia yang lebih terhubung. Access AI berkomitmen pada Tujuan Pembangunan Berkelanjutan PBB 10, bekerja menuju pengurangan kesenjangan melalui teknologi.",
+    "button": "Mulai Sekarang"
+  },
+  "common": {
+    "backToHome": "Kembali ke Beranda"
+  },
+  "windows": {
+    "title": "Instal Access AI untuk Windows",
+    "package": {
+      "title": "Paket Instalasi Windows",
+      "compatibility": "Kompatibel dengan Windows 10 dan 11",
+      "version": "Versi 1.2.0 • 24MB"
+    },
+    "download": {
+      "button": "Unduh untuk Windows",
+      "alert": "Ini akan mengunduh versi Windows dalam implementasi nyata"
+    },
+    "steps": {
+      "download": {
+        "title": "Unduh installer",
+        "description": "Klik tombol unduh di bawah untuk mendapatkan installer Access AI Windows."
+      },
+      "run": {
+        "title": "Jalankan installer",
+        "description": "Buka file yang diunduh (AccessAI-Setup.exe) untuk memulai proses instalasi."
+      },
+      "wizard": {
+        "title": "Ikuti wizard instalasi",
+        "description": "Terima perjanjian lisensi dan pilih opsi instalasi yang Anda inginkan."
+      },
+      "launch": {
+        "title": "Jalankan Access AI",
+        "description": "Setelah terinstal, Anda dapat menjalankan Access AI dari desktop atau menu start."
+      }
+    },
+    "requirements": {
+      "title": "Persyaratan Sistem",
+      "minimum": {
+        "title": "Persyaratan Minimum",
+        "list": [
+          "Windows 10 (64-bit)",
+          "4GB RAM",
+          "Prosesor Dual-core 2GHz",
+          "500MB ruang penyimpanan tersedia"
+        ]
+      },
+      "recommended": {
+        "title": "Direkomendasikan",
+        "list": [
+          "Windows 11 (64-bit)",
+          "8GB RAM",
+          "Prosesor Quad-core 2.5GHz",
+          "1GB ruang penyimpanan tersedia"
+        ]
+      }
+    }
+  },
+  "android": {
+    "title": "Instal Access AI untuk Android",
+    "package": {
+      "title": "Paket APK Android",
+      "compatibility": "Untuk Android 8.0 ke atas",
+      "version": "Versi 1.2.0 • 18MB"
+    },
+    "download": {
+      "button": "Unduh untuk Android",
+      "alert": "Ini akan mengunduh versi Android dalam implementasi nyata"
+    },
+    "steps": {
+      "download": {
+        "title": "Unduh APK",
+        "description": "Klik tombol unduh di bawah untuk mendapatkan file APK Access AI."
+      },
+      "enable": {
+        "title": "Aktifkan sumber tidak dikenal",
+        "description": "Buka Pengaturan > Keamanan dan aktifkan 'Sumber tidak dikenal' untuk mengizinkan instalasi aplikasi dari sumber selain Play Store."
+      },
+      "install": {
+        "title": "Instal APK",
+        "description": "Buka file APK yang diunduh dan ketuk 'Instal' saat diminta."
+      },
+      "launch": {
+        "title": "Jalankan Access AI",
+        "description": "Setelah terinstal, Anda dapat menemukan dan menjalankan Access AI dari laci aplikasi Anda."
+      }
+    },
+    "requirements": {
+      "title": "Kompatibilitas Perangkat",
+      "minimum": {
+        "title": "Persyaratan Minimum",
+        "list": [
+          "Android 8.0 (Oreo) atau lebih tinggi",
+          "2GB RAM",
+          "Prosesor ARM v7",
+          "200MB ruang penyimpanan tersedia"
+        ]
+      },
+      "recommended": {
+        "title": "Direkomendasikan",
+        "list": [
+          "Android 10 atau lebih tinggi",
+          "4GB RAM",
+          "Prosesor ARM v8",
+          "500MB ruang penyimpanan tersedia"
+        ]
+      }
+    },
+    "security": {
+      "note": {
+        "title": "Catatan",
+        "description": "Karena aplikasi ini tidak diunduh dari Google Play Store, Anda perlu mengaktifkan instalasi dari sumber tidak dikenal di pengaturan perangkat Anda."
+      }
+    }
+  }
+}

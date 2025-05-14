@@ -1,0 +1,160 @@
+{
+  "header": {
+    "home": "首页",
+    "windows": "Windows",
+    "android": "安卓",
+    "getStarted": "立即开始"
+  },
+  "hero": {
+    "sdgBadge": "联合国可持续发展目标10：减少不平等",
+    "title": "Access AI",
+    "tagline": "为40亿仍未联网的人带来世界—一次一个社区",
+    "downloadButton": "立即下载"
+  },
+  "download": {
+    "title": "选择您的平台",
+    "subtitle": "打破所有设备的技术壁垒。我们的使命是确保每个人都能平等地获取信息和机会。",
+    "recommended": "为您推荐",
+    "windows": {
+      "title": "Windows",
+      "subtitle": "适用于 Windows 10 和 11 电脑",
+      "button": "下载 Windows 版"
+    },
+    "android": {
+      "title": "安卓",
+      "subtitle": "适用于 Android 8.0+ 智能手机和平板",
+      "button": "下载安卓版"
+    }
+  },
+  "features": {
+    "title": "跨越数字鸿沟",
+    "offline": {
+      "title": "离线访问",
+      "description": "无需互联网连接即可获取重要信息，打破障碍。"
+    },
+    "equality": {
+      "title": "平等机会",
+      "description": "通过平等获取教育资源和机会赋能社区。"
+    },
+    "community": {
+      "title": "社区影响",
+      "description": "通过连接社区与重要资源和知识创造持久改变。"
+    }
+  },
+  "join": {
+    "title": "加入行动",
+    "description": "成为我们减少不平等、创造更紧密联系世界使命的一部分。Access AI致力于联合国可持续发展目标10，通过技术努力减少不平等。",
+    "button": "立即开始"
+  },
+  "common": {
+    "backToHome": "返回首页"
+  },
+  "windows": {
+    "title": "安装 Windows 版 Access AI",
+    "package": {
+      "title": "Windows 安装包",
+      "compatibility": "兼容 Windows 10 和 11",
+      "version": "版本 1.2.0 • 24MB"
+    },
+    "download": {
+      "button": "下载 Windows 版",
+      "alert": "这将在实际实现中下载 Windows 版本"
+    },
+    "steps": {
+      "download": {
+        "title": "下载安装程序",
+        "description": "点击下方下载按钮获取 Access AI Windows 安装程序。"
+      },
+      "run": {
+        "title": "运行安装程序",
+        "description": "打开下载的文件（AccessAI-Setup.exe）开始安装过程。"
+      },
+      "wizard": {
+        "title": "按照安装向导操作",
+        "description": "接受许可协议并选择您偏好的安装选项。"
+      },
+      "launch": {
+        "title": "启动 Access AI",
+        "description": "安装完成后，您可以从桌面或开始菜单启动 Access AI。"
+      }
+    },
+    "requirements": {
+      "title": "系统要求",
+      "minimum": {
+        "title": "最低要求",
+        "list": [
+          "Windows 10（64位）",
+          "4GB 内存",
+          "2GHz 双核处理器",
+          "500MB 可用存储空间"
+        ]
+      },
+      "recommended": {
+        "title": "推荐配置",
+        "list": [
+          "Windows 11（64位）",
+          "8GB 内存",
+          "2.5GHz 四核处理器",
+          "1GB 可用存储空间"
+        ]
+      }
+    }
+  },
+  "android": {
+    "title": "安装安卓版 Access AI",
+    "package": {
+      "title": "安卓 APK 包",
+      "compatibility": "适用于 Android 8.0 及以上版本",
+      "version": "版本 1.2.0 • 18MB"
+    },
+    "download": {
+      "button": "下载安卓版",
+      "alert": "这将在实际实现中下载安卓版本"
+    },
+    "steps": {
+      "download": {
+        "title": "下载 APK",
+        "description": "点击下方下载按钮获取 Access AI APK 文件。"
+      },
+      "enable": {
+        "title": "启用未知来源",
+        "description": "进入设置 > 安全，启用\"未知来源\"以允许安装来自 Play Store 以外来源的应用。"
+      },
+      "install": {
+        "title": "安装 APK",
+        "description": "打开下载的 APK 文件，在提示时点击\"安装\"。"
+      },
+      "launch": {
+        "title": "启动 Access AI",
+        "description": "安装完成后，您可以在应用抽屉中找到并启动 Access AI。"
+      }
+    },
+    "requirements": {
+      "title": "设备兼容性",
+      "minimum": {
+        "title": "最低要求",
+        "list": [
+          "Android 8.0（奥利奥）或更高版本",
+          "2GB 内存",
+          "ARM v7 处理器",
+          "200MB 可用存储空间"
+        ]
+      },
+      "recommended": {
+        "title": "推荐配置",
+        "list": [
+          "Android 10 或更高版本",
+          "4GB 内存",
+          "ARM v8 处理器",
+          "500MB 可用存储空间"
+        ]
+      }
+    },
+    "security": {
+      "note": {
+        "title": "注意",
+        "description": "由于此应用不是从 Google Play 商店下载的，您需要在设备设置中启用从未知来源安装的权限。"
+      }
+    }
+  }
+}

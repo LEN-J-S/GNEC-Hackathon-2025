@@ -1,0 +1,160 @@
+{
+  "header": {
+    "home": "Nyumbani",
+    "windows": "Windows",
+    "android": "Android",
+    "getStarted": "Anza Sasa"
+  },
+  "hero": {
+    "sdgBadge": "Malengo ya Maendeleo Endelevu ya UN 10: Kupunguza Kutokuwa Sawa",
+    "title": "Access AI",
+    "tagline": "Kufikisha ulimwengu kwa watu bilioni 4 ambao bado hawajaunganishwa - jamii moja kwa wakati",
+    "downloadButton": "Pakua Sasa"
+  },
+  "download": {
+    "title": "Chagua Jukwaa Lako",
+    "subtitle": "Kuvunja vikwazo vya kiteknolojia katika vifaa vyote. Dhamira yetu ni kuhakikisha kila mtu ana fursa sawa ya kupata taarifa.",
+    "recommended": "Inapendekezwa kwako",
+    "windows": {
+      "title": "Windows",
+      "subtitle": "Kwa kompyuta za Windows 10 na 11",
+      "button": "Pakua kwa Windows"
+    },
+    "android": {
+      "title": "Android",
+      "subtitle": "Kwa simu janja na tableti za Android 8.0+",
+      "button": "Pakua kwa Android"
+    }
+  },
+  "features": {
+    "title": "Kuziba Pengo la Kidijitali",
+    "offline": {
+      "title": "Ufikiaji Bila Mtandao",
+      "description": "Kuvunja vikwazo kwa kutoa ufikiaji wa taarifa muhimu bila kuhitaji muunganisho wa intaneti."
+    },
+    "equality": {
+      "title": "Fursa Sawa",
+      "description": "Kuwezesha jamii kupitia ufikiaji sawa wa rasilimali za elimu na fursa."
+    },
+    "community": {
+      "title": "Athari kwa Jamii",
+      "description": "Kuleta mabadiliko ya kudumu kwa kuunganisha jamii na rasilimali muhimu na maarifa."
+    }
+  },
+  "join": {
+    "title": "Jiunge na Harakati",
+    "description": "Kuwa sehemu ya dhamira yetu ya kupunguza kutokuwa sawa na kujenga ulimwengu ulioungana zaidi. Access AI imejitolea kwa Lengo la 10 la Maendeleo Endelevu la UN, tukifanya kazi kuelekea kupunguza kutokuwa sawa kupitia teknolojia.",
+    "button": "Anza Sasa"
+  },
+  "common": {
+    "backToHome": "Rudi Nyumbani"
+  },
+  "windows": {
+    "title": "Sakinisha Access AI kwa Windows",
+    "package": {
+      "title": "Kifurushi cha Usakinishaji cha Windows",
+      "compatibility": "Inaendana na Windows 10 na 11",
+      "version": "Toleo 1.2.0 • 24MB"
+    },
+    "download": {
+      "button": "Pakua kwa Windows",
+      "alert": "Hii ingepakua toleo la Windows katika utekelezaji halisi"
+    },
+    "steps": {
+      "download": {
+        "title": "Pakua kisakinishi",
+        "description": "Bofya kitufe cha kupakua hapa chini kupata kisakinishi cha Access AI cha Windows."
+      },
+      "run": {
+        "title": "Endesha kisakinishi",
+        "description": "Fungua faili iliyopakuliwa (AccessAI-Setup.exe) kuanza mchakato wa usakinishaji."
+      },
+      "wizard": {
+        "title": "Fuata wizadi ya usakinishaji",
+        "description": "Kubali mkataba wa leseni na chagua chaguo zako za usakinishaji unazopenda."
+      },
+      "launch": {
+        "title": "Zindua Access AI",
+        "description": "Baada ya kusakinishwa, unaweza kuzindua Access AI kutoka kwa desktop au menyu ya kuanza."
+      }
+    },
+    "requirements": {
+      "title": "Mahitaji ya Mfumo",
+      "minimum": {
+        "title": "Mahitaji ya Chini",
+        "list": [
+          "Windows 10 (bit-64)",
+          "RAM ya 4GB",
+          "Processer ya Dual-core ya 2GHz",
+          "Nafasi ya hifadhi ya 500MB"
+        ]
+      },
+      "recommended": {
+        "title": "Inapendekezwa",
+        "list": [
+          "Windows 11 (bit-64)",
+          "RAM ya 8GB",
+          "Processer ya Quad-core ya 2.5GHz",
+          "Nafasi ya hifadhi ya 1GB"
+        ]
+      }
+    }
+  },
+  "android": {
+    "title": "Sakinisha Access AI kwa Android",
+    "package": {
+      "title": "Kifurushi cha APK cha Android",
+      "compatibility": "Kwa Android 8.0 na zaidi",
+      "version": "Toleo 1.2.0 • 18MB"
+    },
+    "download": {
+      "button": "Pakua kwa Android",
+      "alert": "Hii ingepakua toleo la Android katika utekelezaji halisi"
+    },
+    "steps": {
+      "download": {
+        "title": "Pakua APK",
+        "description": "Bofya kitufe cha kupakua hapa chini kupata faili ya APK ya Access AI."
+      },
+      "enable": {
+        "title": "Wezesha vyanzo visivyojulikana",
+        "description": "Nenda kwa Mipangilio > Usalama na uwezesha 'Vyanzo Visivyojulikana' kuruhusu usakinishaji wa programu kutoka vyanzo vingine zaidi ya Duka la Play."
+      },
+      "install": {
+        "title": "Sakinisha APK",
+        "description": "Fungua faili ya APK iliyopakuliwa na uguse 'Sakinisha' unapoulizwa."
+      },
+      "launch": {
+        "title": "Zindua Access AI",
+        "description": "Baada ya kusakinishwa, unaweza kupata na kuzindua Access AI kutoka kwa droo yako ya programu."
+      }
+    },
+    "requirements": {
+      "title": "Uendani wa Kifaa",
+      "minimum": {
+        "title": "Mahitaji ya Chini",
+        "list": [
+          "Android 8.0 (Oreo) au zaidi",
+          "RAM ya 2GB",
+          "Processer ya ARM v7",
+          "Nafasi ya hifadhi ya 200MB"
+        ]
+      },
+      "recommended": {
+        "title": "Inapendekezwa",
+        "list": [
+          "Android 10 au zaidi",
+          "RAM ya 4GB",
+          "Processer ya ARM v8",
+          "Nafasi ya hifadhi ya 500MB"
+        ]
+      }
+    },
+    "security": {
+      "note": {
+        "title": "Kumbuka",
+        "description": "Kwa kuwa programu hii haipakuliwi kutoka kwa Duka la Google Play, utahitaji kuwezesha usakinishaji kutoka vyanzo visivyojulikana katika mipangilio ya kifaa chako."
+      }
+    }
+  }
+}

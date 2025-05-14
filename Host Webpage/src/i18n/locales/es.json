@@ -1,0 +1,160 @@
+{
+  "header": {
+    "home": "Inicio",
+    "windows": "Windows",
+    "android": "Android",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "sdgBadge": "ODS 10 de la ONU: Reducción de las Desigualdades",
+    "title": "Access AI",
+    "tagline": "Llevando el mundo a los 4 mil millones que aún están desconectados, una comunidad a la vez",
+    "downloadButton": "Descargar Ahora"
+  },
+  "download": {
+    "title": "Elige tu Plataforma",
+    "subtitle": "Rompiendo barreras tecnológicas en todos los dispositivos. Nuestra misión es asegurar que todos tengan acceso igualitario a la información y oportunidades.",
+    "recommended": "Recomendado para ti",
+    "windows": {
+      "title": "Windows",
+      "subtitle": "Para computadoras Windows 10 y 11",
+      "button": "Descargar para Windows"
+    },
+    "android": {
+      "title": "Android",
+      "subtitle": "Para smartphones y tablets Android 8.0+",
+      "button": "Descargar para Android"
+    }
+  },
+  "features": {
+    "title": "Cerrando la Brecha Digital",
+    "offline": {
+      "title": "Acceso Sin Internet",
+      "description": "Rompiendo barreras al proporcionar acceso a información esencial sin necesidad de conexión a internet."
+    },
+    "equality": {
+      "title": "Igualdad de Oportunidades",
+      "description": "Empoderando comunidades con acceso igualitario a recursos educativos y oportunidades."
+    },
+    "community": {
+      "title": "Impacto Comunitario",
+      "description": "Creando cambios duraderos al conectar comunidades con recursos y conocimientos vitales."
+    }
+  },
+  "join": {
+    "title": "Únete al Movimiento",
+    "description": "Sé parte de nuestra misión para reducir las desigualdades y crear un mundo más conectado. Access AI está comprometido con el Objetivo de Desarrollo Sostenible 10 de la ONU, trabajando hacia la reducción de desigualdades a través de la tecnología.",
+    "button": "Comienza Ahora"
+  },
+  "common": {
+    "backToHome": "Volver al inicio"
+  },
+  "windows": {
+    "title": "Instalar Access AI para Windows",
+    "package": {
+      "title": "Paquete de Instalación Windows",
+      "compatibility": "Compatible con Windows 10 y 11",
+      "version": "Versión 1.2.0 • 24MB"
+    },
+    "download": {
+      "button": "Descargar para Windows",
+      "alert": "Esto descargaría la versión de Windows en una implementación real"
+    },
+    "steps": {
+      "download": {
+        "title": "Descargar el instalador",
+        "description": "Haz clic en el botón de descarga para obtener el instalador de Access AI para Windows."
+      },
+      "run": {
+        "title": "Ejecutar el instalador",
+        "description": "Abre el archivo descargado (AccessAI-Setup.exe) para iniciar el proceso de instalación."
+      },
+      "wizard": {
+        "title": "Seguir el asistente de instalación",
+        "description": "Acepta el acuerdo de licencia y elige tus opciones de instalación preferidas."
+      },
+      "launch": {
+        "title": "Iniciar Access AI",
+        "description": "Una vez instalado, puedes iniciar Access AI desde tu escritorio o menú de inicio."
+      }
+    },
+    "requirements": {
+      "title": "Requisitos del Sistema",
+      "minimum": {
+        "title": "Requisitos Mínimos",
+        "list": [
+          "Windows 10 (64-bit)",
+          "4GB RAM",
+          "Procesador Dual-core 2GHz",
+          "500MB de espacio disponible"
+        ]
+      },
+      "recommended": {
+        "title": "Recomendado",
+        "list": [
+          "Windows 11 (64-bit)",
+          "8GB RAM",
+          "Procesador Quad-core 2.5GHz",
+          "1GB de espacio disponible"
+        ]
+      }
+    }
+  },
+  "android": {
+    "title": "Instalar Access AI para Android",
+    "package": {
+      "title": "Paquete APK Android",
+      "compatibility": "Para Android 8.0 y superior",
+      "version": "Versión 1.2.0 • 18MB"
+    },
+    "download": {
+      "button": "Descargar para Android",
+      "alert": "Esto descargaría la versión de Android en una implementación real"
+    },
+    "steps": {
+      "download": {
+        "title": "Descargar el APK",
+        "description": "Haz clic en el botón de descarga para obtener el archivo APK de Access AI."
+      },
+      "enable": {
+        "title": "Habilitar fuentes desconocidas",
+        "description": "Ve a Configuración > Seguridad y habilita 'Fuentes desconocidas' para permitir la instalación de aplicaciones de fuentes distintas a Play Store."
+      },
+      "install": {
+        "title": "Instalar el APK",
+        "description": "Abre el archivo APK descargado y toca 'Instalar' cuando se te solicite."
+      },
+      "launch": {
+        "title": "Iniciar Access AI",
+        "description": "Una vez instalado, puedes encontrar e iniciar Access AI desde tu cajón de aplicaciones."
+      }
+    },
+    "requirements": {
+      "title": "Compatibilidad de Dispositivos",
+      "minimum": {
+        "title": "Requisitos Mínimos",
+        "list": [
+          "Android 8.0 (Oreo) o superior",
+          "2GB RAM",
+          "Procesador ARM v7",
+          "200MB de espacio disponible"
+        ]
+      },
+      "recommended": {
+        "title": "Recomendado",
+        "list": [
+          "Android 10 o superior",
+          "4GB RAM",
+          "Procesador ARM v8",
+          "500MB de espacio disponible"
+        ]
+      }
+    },
+    "security": {
+      "note": {
+        "title": "Nota",
+        "description": "Como esta aplicación no se descarga desde Google Play Store, deberás habilitar la instalación desde fuentes desconocidas en la configuración de tu dispositivo."
+      }
+    }
+  }
+}

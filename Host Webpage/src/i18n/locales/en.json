@@ -1,0 +1,160 @@
+{
+  "header": {
+    "home": "Home",
+    "windows": "Windows",
+    "android": "Android",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "sdgBadge": "UN Sustainable Development Goal 10: Reduced Inequalities",
+    "title": "Access AI",
+    "tagline": "Bringing the world to the 4 billion still offline—one community at a time",
+    "downloadButton": "Download Now"
+  },
+  "download": {
+    "title": "Choose Your Platform",
+    "subtitle": "Breaking down technological barriers across all devices. Our mission is to ensure everyone has equal access to information and opportunities.",
+    "recommended": "Recommended for you",
+    "windows": {
+      "title": "Windows",
+      "subtitle": "For Windows 10 and 11 computers",
+      "button": "Download for Windows"
+    },
+    "android": {
+      "title": "Android",
+      "subtitle": "For Android 8.0+ smartphones and tablets",
+      "button": "Download for Android"
+    }
+  },
+  "features": {
+    "title": "Bridging the Digital Divide",
+    "offline": {
+      "title": "Offline Access",
+      "description": "Breaking barriers by providing access to essential information without requiring internet connectivity, powered by Microsoft's Phi-4 AI model running directly on your device."
+    },
+    "equality": {
+      "title": "Equal Opportunities",
+      "description": "Empowering communities with equal access to educational resources and opportunities."
+    },
+    "community": {
+      "title": "Community Impact",
+      "description": "Creating lasting change by connecting communities to vital resources and knowledge."
+    }
+  },
+  "join": {
+    "title": "Join the Movement",
+    "description": "Be part of our mission to reduce inequalities and create a more connected world. Access AI brings the power of the internet offline through Microsoft's Phi-4 AI model, downloaded directly to your device. This revolutionary approach ensures access to information even without an internet connection, truly democratizing knowledge access. We're committed to UN Sustainable Development Goal 10, working towards reduced inequalities through technology.",
+    "button": "Get Started Now"
+  },
+  "common": {
+    "backToHome": "Back to home"
+  },
+  "windows": {
+    "title": "Install Access AI for Windows",
+    "package": {
+      "title": "Windows Installation Package",
+      "compatibility": "Compatible with Windows 10 and 11",
+      "version": "Version 1.2.0 • 24MB"
+    },
+    "download": {
+      "button": "Download for Windows",
+      "alert": "This would download the Windows version in a real implementation"
+    },
+    "steps": {
+      "download": {
+        "title": "Download the installer",
+        "description": "Click the download button below to get the Access AI Windows installer."
+      },
+      "run": {
+        "title": "Run the installer",
+        "description": "Open the downloaded file (AccessAI-Setup.exe) to start the installation process."
+      },
+      "wizard": {
+        "title": "Follow the installation wizard",
+        "description": "Accept the license agreement and choose your preferred installation options."
+      },
+      "launch": {
+        "title": "Launch Access AI",
+        "description": "Once installed, you can launch Access AI from your desktop or start menu."
+      }
+    },
+    "requirements": {
+      "title": "System Requirements",
+      "minimum": {
+        "title": "Minimum Requirements",
+        "list": [
+          "Windows 10 (64-bit)",
+          "4GB RAM",
+          "2GHz Dual-core processor",
+          "500MB available storage"
+        ]
+      },
+      "recommended": {
+        "title": "Recommended",
+        "list": [
+          "Windows 11 (64-bit)",
+          "8GB RAM",
+          "2.5GHz Quad-core processor",
+          "1GB available storage"
+        ]
+      }
+    }
+  },
+  "android": {
+    "title": "Install Access AI for Android",
+    "package": {
+      "title": "Android APK Package",
+      "compatibility": "For Android 8.0 and higher",
+      "version": "Version 1.2.0 • 18MB"
+    },
+    "download": {
+      "button": "Download for Android",
+      "alert": "This would download the Android version in a real implementation"
+    },
+    "steps": {
+      "download": {
+        "title": "Download the APK",
+        "description": "Click the download button below to get the Access AI APK file."
+      },
+      "enable": {
+        "title": "Enable unknown sources",
+        "description": "Go to Settings > Security and enable 'Unknown sources' to allow installation of apps from sources other than the Play Store."
+      },
+      "install": {
+        "title": "Install the APK",
+        "description": "Open the downloaded APK file and tap 'Install' when prompted."
+      },
+      "launch": {
+        "title": "Launch Access AI",
+        "description": "Once installed, you can find and launch Access AI from your app drawer."
+      }
+    },
+    "requirements": {
+      "title": "Device Compatibility",
+      "minimum": {
+        "title": "Minimum Requirements",
+        "list": [
+          "Android 8.0 (Oreo) or higher",
+          "2GB RAM",
+          "ARM v7 processor",
+          "200MB available storage"
+        ]
+      },
+      "recommended": {
+        "title": "Recommended",
+        "list": [
+          "Android 10 or higher",
+          "4GB RAM",
+          "ARM v8 processor",
+          "500MB available storage"
+        ]
+      }
+    },
+    "security": {
+      "note": {
+        "title": "Note",
+        "description": "Since this app is not downloaded from the Google Play Store, you'll need to enable installation from unknown sources in your device settings."
+      }
+    }
+  }
+}
