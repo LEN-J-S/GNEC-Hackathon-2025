@@ -2,6 +2,7 @@
 #### by Lee Johns Shaji & Len Johns Shaji
 
 [![Demo](GNEC.png)](https://www.youtube.com/watch?v=KIbEPyWscug)
+Read More: https://github.com/LEN-J-S/GNEC-Hackathon-2025/blob/main/ACCESS%20AI.pdf
 
 ## Inspiration
 Nearly 4 billion people around the world lack reliable internet access. This deepens education gaps, economic exclusion, and poverty cycles. While AI and digital tools are revolutionizing learning, they remain out of reach for billions.
